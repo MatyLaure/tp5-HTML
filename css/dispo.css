@@ -1,0 +1,10 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.img {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    width: 300 px;
+}
